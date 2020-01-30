@@ -1,0 +1,6 @@
+{
+    "Error1": "DEC or Special character on input",
+    "Error2": "DEC is beyond [0:255] or starts with 0",  
+    "Error3": "DEC contains special characters",
+    "Error4": "Subnet Mask is not valid"
+}
